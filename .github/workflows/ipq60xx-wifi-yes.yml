@@ -1,5 +1,5 @@
 #CI项目
-name: ipq60xx-wifi-yes
+name: znonly
 
 #CI计划
 on:
